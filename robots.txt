@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://togel-kartu-ndol-ndol.github.io/tkn-1/sitemap.xml
